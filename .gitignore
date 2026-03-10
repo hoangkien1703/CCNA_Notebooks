@@ -1,0 +1,13 @@
+# Windows system files
+[Th]umbs.db
+*.stackdump
+
+# VS Code
+.vscode/
+
+# Node.js (if applicable later)
+node_modules/
+
+# Temporary files
+*.tmp
+*.log
